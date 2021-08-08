@@ -14,4 +14,5 @@ Selam!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 
 <img align="left" alt="NicatDCW Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicat-dcw&show_icons=true&theme=radical&count_private=true" />
 </div>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852853360612605952?hideDiscrim=true)](https://discord.com/users/852853360612605952)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852853360612605952
+                            )](https://discord.com/users/852853360612605952)
