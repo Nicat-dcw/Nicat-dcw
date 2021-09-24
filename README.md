@@ -3,7 +3,7 @@
   <h1>🌎 Hakkımda</h1>
   <p>Discorddan Onay Alıcak Botun Sahipiyim!.</p>
   <br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852853360612605952)](https://discord.com/users/852853360612605952)
+<img src="https://lanyard-profile-readme.vercel.app/api/852853360612605952"></img>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Nicat-dcw&show_icons=true&theme=gruvbox&hide_border=true" width="%100" height="150px">
   <br>
