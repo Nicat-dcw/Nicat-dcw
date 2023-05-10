@@ -1,4 +1,4 @@
-
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=hut1z6kb01af75ec87j4atkte&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" align="center"/>
 <div align="center">
   <h1>🌎 Hakkımda</h1>
   <p>Discorddan Onay Alıcak Botun Sahipiyim!.</p>
